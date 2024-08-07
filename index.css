@@ -1,3 +1,60 @@
-#heading{
-    color:brown;
+.header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.logo {
+  height: 115px;
+}
+
+.nav-items > ul {
+  display: flex;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.nav-items{
+    padding: 0px 20px;
+}
+
+.res-card{
+  width: 190px;
+  height: auto;
+  padding: 5px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.res-card:hover{
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.search{
+  padding: 20px;
+}
+
+.res-logo{
+  width: 100%;
+  height: 130px;
+}
+
+.res-card h3 {
+  margin: 3px 0px;
+}
+
+.res-card h4 {
+  margin: 10px 0px;
+}
+
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
 }
