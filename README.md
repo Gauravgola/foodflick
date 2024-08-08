@@ -18,3 +18,26 @@
 - Good Error Handling
 - HTTPS
 - Tree Shaking - Remove unused code
+
+
+# FoodFlick 
+
+/**
+ * Header
+ *    - Logo
+ *    - nav Items
+ * Body
+ *    - search
+ *    - Restaurant Container
+ *                - Restaurant Card
+ *                      - Img
+ *                      - Name of the Restaurant
+ *                      - star Rating
+ *                      - Cuisine
+ *                      - Delivery Time
+ * Footer
+ *    - Copyright
+ *    - Links
+ *    - Adddress
+ *    - Contact
+ */
