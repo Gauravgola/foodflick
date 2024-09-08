@@ -22,7 +22,6 @@
 
 # FoodFlick 
 
-/**
  * Header
  *    - Logo
  *    - nav Items
@@ -40,4 +39,3 @@
  *    - Links
  *    - Adddress
  *    - Contact
- */
